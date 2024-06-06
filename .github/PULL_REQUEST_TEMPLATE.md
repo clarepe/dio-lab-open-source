@@ -7,7 +7,7 @@ Descrição da alteração que está sendo proposta.
 - [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/SEU_USERNAME.md`)
 - [ ] Correção de bug
 - [ ] Nova funcionalidade
-- [ ] Alteração na documentação
+- [X] Alteração na documentação
 - [ ] Outro (especifique)
 
 ## Checklist
